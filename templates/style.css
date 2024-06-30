@@ -1,0 +1,22 @@
+*{
+    background-color: beige;
+}
+.download{
+    font-size: 26px;
+    margin-top: 5%;
+    margin-left: 10%;
+    background-color: #ff004f;
+    padding: 10px;
+    flex-basis: 45%;
+    color: #fff;
+    flex-wrap: wrap;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.download:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+.h1{
+    margin-left: 10%;
+}
